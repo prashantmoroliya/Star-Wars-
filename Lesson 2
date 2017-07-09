@@ -1,4 +1,4 @@
-Challenge 2: We need more scrap metal . Can you get all the metal in this area?
+Challenge 2:"We need more scrap metal . Can you get all the metal in this area?"
 
 Solution:
 moveRight();
