@@ -1,0 +1,9 @@
+Challenge 1:"It's up to you, BB-8!"
+
+Solution:
+moveRight();
+moveRight();
+moveDown();
+moveDown();
+moveDown();
+moveLeft();
