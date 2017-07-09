@@ -1,0 +1,7 @@
+Challenge 2: Go quickly, BB-8.
+
+Solution:
+moveRight();
+moveRight();
+moveLeft();
+moveUp();
