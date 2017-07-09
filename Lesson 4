@@ -1,0 +1,9 @@
+Challenge 1:"Watch out for the Bandit !"
+
+Solution:
+moveDown();
+moveLeft();
+moveLeft();
+moveDown();
+moveDown();
+moveLeft();
