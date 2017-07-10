@@ -1,0 +1,17 @@
+Challenge 3:"It's up to you, R2-D2!"
+When you get a Tauntaun , make two or more Mynocks  appear. Get 8 Mynocks.
+
+Solution:
+Java Codes:
+addCharacter("Tauntaun");
+addCharacter("Tauntaun");
+addCharacter("Tauntaun");
+addCharacter("Tauntaun");
+
+function whenGetTauntaun() {
+  playSound("TauntaunRandom");
+  addPoints(50);
+  addCharacter("Mynock");
+  addCharacter("Mynock");
+
+}
