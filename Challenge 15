@@ -1,0 +1,43 @@
+Challenge 15:"You're on your own now, R2-D2."
+You have all the tools you need now to create your own puzzle. 
+Feel free to explore and play with all the different Commands and Events.
+When you're done, press the Finish button to continue.
+
+Example project ideas
+Extra credit project ideas
+For JavaScript programmers
+More about the characters
+
+You have all the tools you need now to create your own puzzle. 
+Feel free to explore and play with all the different Commands and Events. 
+When you're done, press the Finish button to continue.
+
+Solution:
+Java Codes:
+setBackground("Endor");
+setMap("circle");
+setDroid("R2-D2");
+setDroidSpeed("normal");
+playSound("R2-D2random");
+function whenUp() {
+  goUp();
+}
+function whenDown() {
+  goDown();
+}
+function whenLeft() {
+  goLeft();
+}
+function whenRight() {
+  goRight();
+}
+addCharacter("RebelPilot");
+addCharacter("Stormtrooper");
+function whenGetRebelPilot() {
+  addPoints(1000);
+  endGame("win");
+}
+function whenGetStormtrooper() {
+  removePoints(1000);
+  endGame("lose");
+}
