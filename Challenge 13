@@ -1,0 +1,13 @@
+Challenge 13:"They're multiplying!"
+Can you make two or more Mouse Droids  appear every time R2-D2 gets one Mouse Droid? Get 20 Mouse Droids.
+
+Solution:
+Java Codes:
+addCharacter("MouseDroid");
+playSound("R2-D2sound3");
+function whenGetMouseDroid() {
+  addCharacter("MouseDroid");
+  addCharacter("MouseDroid");
+  addCharacter("MouseDroid");
+  addCharacter("MouseDroid");
+}
