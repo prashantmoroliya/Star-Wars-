@@ -1,0 +1,8 @@
+Challenge 3:"Go quickly, BB-8."
+
+Solution:
+Java Codes:
+moveRight();
+moveRight();
+moveLeft();
+moveUp();
