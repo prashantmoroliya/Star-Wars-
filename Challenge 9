@@ -1,0 +1,9 @@
+Challenge 9:"Reach the Rebel Pilots!"
+Let's add points. Add points when R2-D2 gets each Rebel Pilot . Get 900 points to win.
+
+Solution:
+Java Codes:
+function whenGetRebelPilot() {
+  playSound("R2-D2random");
+  addPoints(300);
+}
