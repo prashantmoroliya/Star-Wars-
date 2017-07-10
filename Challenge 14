@@ -1,0 +1,13 @@
+Challenge 14:"Time to visit another planet."
+Use the new commands to change your droid and its speed. Then, get the Rebel Pilots .
+
+Solution:
+Java Codes:
+addCharacter("RebelPilot");
+addCharacter("RebelPilot");
+addCharacter("RebelPilot");
+
+setBackground("random");
+setMap("random");
+setDroid("C-3PO");
+setDroidSpeed("fast");
