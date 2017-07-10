@@ -1,0 +1,11 @@
+Challenge 3:"R2-D2, I need you to get a critical message to the Rebel Pilots ."
+Make R2-D2 move when you use the arrow keys.
+
+Solution:
+Java Codes:
+function whenUp() {
+  goUp();
+}
+function whenDown() {
+  goDown();
+}
