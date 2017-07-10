@@ -1,0 +1,10 @@
+Challenge 4:"Watch out for the Bandit !"
+
+Solution:
+Java Codes:
+moveDown();
+moveLeft();
+moveLeft();
+moveDown();
+moveDown();
+moveLeft();
