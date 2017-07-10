@@ -1,0 +1,19 @@
+Challenge 10:"Watch out for the Stormtroopers ."
+Add 100 points when R2-D2 gets a Rebel Pilot . 
+Remove 100 when he gets a Stormtrooper . 
+Get 200 points to pass the puzzle. (You can use the Mynock  to make it easier.)
+
+Solution:
+Java Codes:
+function whenGetRebelPilot() {
+  playSound("R2-D2random");
+  addPoints(100);
+}
+function whenGetStormtrooper() {
+  playSound("R2-D2random");
+  removePoints(100);
+}
+function whenGetMynock() {
+  playSound("R2-D2sound2");
+  addPoints(100);
+}
