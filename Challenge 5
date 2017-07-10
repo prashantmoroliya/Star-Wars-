@@ -1,0 +1,10 @@
+Challenge 5:"It's up to you, BB-8!"
+
+Solution:
+Java Codes:
+moveRight();
+moveRight();
+moveDown();
+moveDown();
+moveDown();
+moveLeft();
