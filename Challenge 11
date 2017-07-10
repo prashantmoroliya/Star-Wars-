@@ -1,0 +1,14 @@
+Challenge 11:"I'm seeing signs of increased activity on this planet."
+Add three Puffer Pigs  to the planet. Then, go get them.
+
+Solution:
+Java Codes:
+playSound("R2-D2sound1");
+addCharacter("PufferPig");
+addCharacter("PufferPig");
+addCharacter("PufferPig");
+
+function whenGetPufferPig() {
+  playSound("PufferPigRandom");
+  addPoints(1000);
+}
